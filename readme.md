@@ -1,3 +1,5 @@
+## Chatting app 
+
 This is simple chat application using Nodejs , Express and Sockte.io.
 
 To Run the file simply download the project to your pc and install the dependency.
